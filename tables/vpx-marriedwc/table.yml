@@ -1,0 +1,21 @@
+---
+fps: 60
+pupArchiveFormat: "zip"
+pupArchiveRoot: "Married"
+pupBundled: true
+pupChecksum: "E04F1C27E63D948CD59CBD22B87A1CE2"
+pupNotes: "Included in download."
+pupRequired: true
+pupVersion: "1"
+tableNotes: "On Mega, select all folders and download them as a single .zip file."
+tableVPSId: "nQPOY4Z74l"
+testers:
+  - "Dasme"
+vpxChecksum: 
+  - "6EE977B0E26B66254C105631223F83C3"
+  - "c408693e08fd919f2849bdc2dcd0fc14"
+vpxVPSId: "iH-s8XUb-M"
+vpxArchiveFormat: "zip"
+vpxExtractExtra:
+  - "Married With Children/VisualPinball/Music"
+  - "Married With Children/VisualPinball/Tables/Married.UltraDMD"
