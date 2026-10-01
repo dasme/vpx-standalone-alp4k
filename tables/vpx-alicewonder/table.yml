@@ -1,0 +1,25 @@
+---
+altSoundArchiveFormat: "zip"
+altSoundArchiveRoot: "Music/Alice"
+altSoundAuthorsOverride:
+  - "eagle7796"
+altSoundChecksum: "29193519B628D461AF66D8327785FCD4"
+altSoundNotes: "Download Music.zip from the same place as the .vpx file"
+altSoundUrlOverride: "https://vpuniverse.com/files/file/28978-alice-in-wonderland/"
+altSoundVersionOverride: "Music"
+postInstallRename:
+  - source: "pinmame/altsound/elektra"
+    destination: "music/Alice"
+backglassChecksum: "41F7A18027728D57C5472B45C9FDB5A9"
+backglassNotes: "Download Backglasses.zip"
+backglassVPSId: "YghyxFKUBA"
+fps: 60
+romChecksum: "1AE6AF87104163631BC19DF55C6002AD"
+romVPSId: "iJjR-x1jP1"
+tableVPSId: "8Zt5nV0T5b"
+tagline: "We’re all mad here. I’m mad. You’re mad."
+testers:
+  - "Dasme"
+  - "PBW23"
+vpxChecksum: "E57F1AA3CDBCC3234743124BFAD88D6F"
+vpxVPSId: "PDq0O6tENW"
