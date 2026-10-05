@@ -476,9 +476,10 @@ Sub Table1_Init()
     If Table1.ShowDT = False then
         lrail.Visible = False
         rrail.Visible = False
+        Primitive001.Visible = 1
 	Else
         lrail.Visible = True
-        rrail.Visible = True
+        rrail.Visible = True   
     End If
     LoadLUT
     
