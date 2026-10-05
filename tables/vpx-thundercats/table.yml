@@ -1,0 +1,21 @@
+---
+fps: 60
+pupArchiveFormat: "zip"
+pupArchiveRoot: "Thundercats"
+pupChecksum: "DD76B1AF0475E1F154B9C6BB6A384E8F"
+pupFileUrl: "https://vpuniverse.com/files/file/13381-thundercats-pinball/"
+pupNotes: "Download PuP from same link as .vpx"
+pupRequired: true
+pupVersion: "ThundercatsPup-v1.0.9.zip"
+specialDMDArchiveFormat: "zip"
+specialDMDArchiveRoot: "Thundercats.UltraDMD"
+specialDMDChecksum: "C9F11E676225623B2E03D70E3BECE902"
+specialDMDType: "UltraDMD"
+specialDMDUrlOverride: "https://vpuniverse.com/files/file/13381-thundercats-pinball/"
+specialDMDVersion: "Thundercats.UltraDMD-v1.0.0.zip"
+tableVPSId: "ZiuRa5QxKD"
+tagline: "ThunderCats are on the move, ThunderCats are loose!"
+testers:
+  - "Dasme"
+vpxChecksum: "087D2F9AE1B081C28D6285158A53D548"
+vpxVPSId: "xhpcI1231-"
