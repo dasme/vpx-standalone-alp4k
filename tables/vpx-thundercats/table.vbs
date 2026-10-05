@@ -82,8 +82,8 @@ Const MaxPlayers = 4     ' from 1 to 4
 Const BallSaverTime = 20 ' in seconds
 Const MaxMultiplier = 5  ' limit to 5x in this game
 Const TrustPostEnabled = 1 ' 0 removes
-Const EnableFlexDMD = False
-Const EnablePuPDMD = True
+Const EnableFlexDMD = True
+Const EnablePuPDMD = False
 
 
 'Font colors:
