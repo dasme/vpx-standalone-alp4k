@@ -13,6 +13,7 @@ pupArchiveFormat: "zip"
 pupArchiveRoot: "gw_l5"
 pupChecksum: "C45F1C3988A4EC53CCE77214D56F862E"
 pupNotes: "Download TheGetaway.zip"
+pupNSFW: true
 pupRequired: true
 pupVersion: "1.0.0"
 pupVPSId: "6CSxXP0l"
