@@ -1,0 +1,26 @@
+---
+backglassChecksum: "8AC643A7323EDB743CD56594110BB10B"
+backglassNotes: "Download Toy Story-3S.directb2s"
+backglassVPSId: "ylh2aZpNSs"
+fps: 60
+pupArchiveFormat: "rar"
+pupArchiveRoot: "pupvideos/robotf"
+pupBundled: true
+pupChecksum: "7E1F9E4FC3A34CEF3764388489CC62B7"
+pupNotes: "Download 'pupvideos.rar' from .vpx link"
+pupRequired: true
+pupVersion: "pupvideos.rar"
+romBundled: true
+romChecksum: "AFB20FE66E2FDD0948CB35FBE1C634B7"
+romNotes: "Included in .vpx download"
+romVersionOverride: "robot"
+additionalRoms:
+  - bundled: true 
+    checksum: "4A3AE249A17E50B72BACEBF45FDB89FC"
+    notes: "Included in .vpx download" 
+tableVPSId: "PJF9NvDyOj"
+tagline: "You've got a friend in me!"
+testers:
+  - "Dasme"
+vpxChecksum: "B3FAD57EA1E60D3DFD9FEE86F4A61184"
+vpxVPSId: "jv59nu-WNs"
