@@ -1,0 +1,28 @@
+---
+fps: 60
+pupArchiveFormat: "zip"
+pupArchiveRoot: "THE OFFICE v1.1/TheOffice"
+pupBundled: true
+pupChecksum: "3CBE8D4808B6902FB5074E38A3FFFFE0"
+pupNotes: "Bundled in .vpx download."
+pupRequired: true
+pupVersion: "1.1"
+romBundled: true
+romChecksum: "782443F306370826C2C75F145118471D"
+romNotes: "Bundled in .vpx download."
+specialDMDArchiveRoot: "THE OFFICE v1.1/TheOffice.UltraDMD"
+specialDMDBundled: true
+specialDMDType: "UltraDMD"
+tableNotes: "Download 'THE OFFICE v1.1.zip'."
+tableVPSId: "_m8Z5Myp"
+tagline: "Dunder Mifflin: the people person's paper people!"
+testers:
+  - "Dasme"
+vpxArchiveFormat: "zip"
+vpxChecksum:
+  - "06EFC7FE52C912D33F3F16A56D933A9B"
+  - "3CBE8D4808B6902FB5074E38A3FFFFE0"
+vpxVPSId: "pfJlsBcv"
+vpxExtractExtra:
+  - "THE OFFICE v1.1/Music"
+
